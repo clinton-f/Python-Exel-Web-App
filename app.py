@@ -5,7 +5,7 @@ from PIL import Image
 
 st.set_page_config(page_title='Survey Results')
 st.header('Survey Results 2021')
-st.subheader('This is a Exel Web Application created using Python, Streamlit.')
+st.subheader('This is an Exel Web Application created using Python, Streamlit.')
 
 ### --- LOAD DATAFRAME
 excel_file = 'Survey_Results.xlsx'
