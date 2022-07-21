@@ -56,6 +56,7 @@ st.plotly_chart(bar_chart)
 
 # --- DISPLAY IMAGE & DATAFRAME
 col1, col2 = st.columns(2)
+
 image = Image.open('images/survey.png')
 print(image)
 col1.image(image,
