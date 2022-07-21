@@ -3,9 +3,9 @@ import streamlit as st
 import plotly.express as px
 from PIL import Image
 
-st.set_page_config(page_title='Survey Results')
-st.header('Survey Results 2021')
-st.subheader('This is an Exel Web Application created using Python, Streamlit.')
+st.set_page_config(page_title='Survey Data Presentation')
+st.header('Survey Results 2022')
+st.subheader('Application created using Python, Exel Data, and Streamlit showing some of my data science and structure skills.')
 
 ### --- LOAD DATAFRAME
 excel_file = 'Survey_Results.xlsx'
