@@ -1,4 +1,4 @@
-Survey Application using my data structure skills with exel, python and streamlit.
+Survey Application using my data structure skills with exel, python and streamlit...
 
 
 TO RUN THE APP:
